@@ -8,7 +8,7 @@ const AREAS = [
   {id: 'dist',  name: 'Dist',           vertical: false, capacidad: 5,  incremento: 10, tipo: 'Línea'},
   {id: 'store', name: 'Stores',         vertical: false, capacidad: 16, incremento: 1,  tipo: 'Arrume'},
   {id: 'dmg',   name: 'Damage',         vertical: false, capacidad: 8,  incremento: 10, tipo: 'Arrume'},
-  {id: 'wip',   name: 'WIP',            vertical: true,  capacidad: 20, incremento: 1,  tipo: 'Arrume'}
+  {id: 'wip',   name: 'WIP',            vertical: true,  capacidad: 32, incremento: 1,  tipo: 'Arrume'}
 ];
 
 /*  helpers API  */
